@@ -8,6 +8,8 @@
  - Filter data and display it on the "ui" part
  - Route the links to a page to show the contents
  - Post a blog to the database
+ - Learn how to do routing of dynamic content
+ *Yes i achieved this and PHP was exciting*
  
  ## I used
  - PHP
