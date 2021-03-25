@@ -1,7 +1,22 @@
 # A-functional-blog
+
  functional blog with Mysql and PHP
+ Well this was to check on my routing skill using PHP. Being able to click on a post and it is able to show you content.
+ I was excited about this one but there was no UI just functionality.
+ ## I wanted to achieve the following:
+ - fetch data from a mysql database
+ - Filter data and display it on the "ui" part
+ - Route the links to a page to show the contents
+ - Post a blog to the database
  
- Forgive my design skills
+ ## I used
+ - PHP
+ - MYSQL
+ - HTML
  
- if you use this code make sure to sanitize the data inputs or use prepared statements or PDO;
+ **Well you may say it is not functional** but i was aiming for fuctionality.
+ 
+
+ 
+
  
